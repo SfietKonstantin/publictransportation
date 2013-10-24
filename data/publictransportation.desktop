@@ -1,0 +1,6 @@
+[Desktop Entry]
+Type=Application
+Name=publictransportation
+Icon=icon-launcher-calendar
+Exec=invoker --type=silica-qt5 -n -d 5 -s /usr/bin/publictransportation
+Comment=An universal public transportation application
